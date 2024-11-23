@@ -79,9 +79,9 @@ xnor g7(c7,a,b);
 endmodule
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by:Vishvanandh N
+ Developed by:Vimal A
  
- RegisterNumber: 24005857
+ RegisterNumber: 24005922
  
 **Logic symbol & Truthtable**
 ![WhatsApp Image 2024-11-23 at 17 38 58_3290048e](https://github.com/user-attachments/assets/492a1310-fa9c-4ab6-8a38-5a0fe80280dd)
@@ -92,4 +92,4 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ![WhatsApp Image 2024-11-23 at 17 05 32_a5f3f37b](https://github.com/user-attachments/assets/e42021f8-8b9e-4129-b975-7fa551a61d30)
 
 **Result:**
-Logic gates are basic building blocks of digital circuits that perform logical operations on one or more binary inputs to produce a single binary output. Here is an overview of the primary logic gates and their behavior of logic gates.
+Logic gates are basic building blocks of digital circuits that perform logical operations on one or more binary inputs to produce a single binary output verified.
