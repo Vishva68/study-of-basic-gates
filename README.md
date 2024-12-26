@@ -79,9 +79,6 @@ xnor g7(c7,a,b);
 endmodule
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by:Vimal A
- 
- RegisterNumber: 24005922
  
 **Logic symbol & Truthtable**
 ![WhatsApp Image 2024-11-23 at 17 38 58_3290048e](https://github.com/user-attachments/assets/492a1310-fa9c-4ab6-8a38-5a0fe80280dd)
